@@ -19,3 +19,4 @@ Just run the following command to see the list of prepared commands:
 
 Just run:
    
+    make run
